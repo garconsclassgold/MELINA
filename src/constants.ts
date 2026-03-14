@@ -256,5 +256,11 @@ export const GUESTS: Guest[] = [
     name: "Herlanderson",
     gift: "Fralda G e um Mimo",
     whatsappMessage: "Oi! Aqui é o Herlanderson. Estou confirmando minha presença no Chá de Fralda da Aurora Melina. Vou levar Fralda G e um Mimo com muito carinho. 💕"
+  },
+  {
+    id: "42",
+    name: "Josinaldo",
+    gift: "Fralda M e um Mimo",
+    whatsappMessage: "Oi! Aqui é o Josinaldo. Estou confirmando minha presença no Chá de Fralda da Aurora Melina. Vou levar Fralda M e um Mimo com muito carinho. 💕"
   }
 ];
